@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/world-clock/static/css/main.c08ea24c.chunk.css",
+    "main.js": "/world-clock/static/js/main.e48e22b9.chunk.js",
+    "main.js.map": "/world-clock/static/js/main.e48e22b9.chunk.js.map",
+    "runtime-main.js": "/world-clock/static/js/runtime-main.646bb892.js",
+    "runtime-main.js.map": "/world-clock/static/js/runtime-main.646bb892.js.map",
+    "static/js/2.2f355747.chunk.js": "/world-clock/static/js/2.2f355747.chunk.js",
+    "static/js/2.2f355747.chunk.js.map": "/world-clock/static/js/2.2f355747.chunk.js.map",
+    "index.html": "/world-clock/index.html",
+    "precache-manifest.7a9dd3721fd6f2bffc15c5d80fb1a96f.js": "/world-clock/precache-manifest.7a9dd3721fd6f2bffc15c5d80fb1a96f.js",
+    "service-worker.js": "/world-clock/service-worker.js",
+    "static/css/main.c08ea24c.chunk.css.map": "/world-clock/static/css/main.c08ea24c.chunk.css.map",
+    "static/js/2.2f355747.chunk.js.LICENSE.txt": "/world-clock/static/js/2.2f355747.chunk.js.LICENSE.txt",
+    "static/media/mdb.min.css": "/world-clock/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/weather-icons.min.scss": "/world-clock/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646bb892.js",
+    "static/js/2.2f355747.chunk.js",
+    "static/css/main.c08ea24c.chunk.css",
+    "static/js/main.e48e22b9.chunk.js"
+  ]
+}
