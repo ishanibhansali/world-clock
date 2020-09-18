@@ -1,0 +1,43 @@
+body {
+  position: relative;
+}
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  
+  .main-section {
+    background: transparent;
+    width: 100%;
+    height: 500px;
+    margin: 30px auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .clock-holder {
+    width: 100%;
+    background:transparent;
+    margin: 30px auto;
+  }
+  
+  
+  .stopwatch {
+    padding: 60px 0px;
+    text-align: center;
+    background: transparent;
+  }
+  .stopwatch span{
+    background: transparent;
+    color: #FFF;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;;
+    font-size: 60px;
+    padding: 50px;
+    border-radius: 5px;
+    width: auto;
+  }
